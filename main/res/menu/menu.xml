@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_decimal"
+        android:title="Decimal" />
+    <item
+        android:id="@+id/navigation_hexadecimal"
+        android:title="Hexadecimal" />
+    <item
+        android:id="@+id/navigation_binary"
+        android:title="Binary" />
+    <item
+        android:id="@+id/navigation_octal"
+        android:title="Octal" />
+</menu>
